@@ -1,4 +1,4 @@
-# LLM Content Summarizer
+# youtube-web-summarizer
 
 An LLM-powered web application that generates concise summaries from **YouTube videos** and **website URLs** using **LangChain** and **Groq LLaMA-3.1**, with an interactive **Streamlit** interface.
 
